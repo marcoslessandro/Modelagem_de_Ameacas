@@ -3,7 +3,7 @@
   "summary": {
     "title": "Modelo sistema distribuicao hidrico",
     "owner": "Marcos Alessandro",
-    "description": "",
+    "description": "Plataforma híbrida que gerencia a distribuição de água de uma cidade de médio porte. Ele conecta a central de controle aos sensores de campo, às equipes de manutenção e ao faturamento dos cidadãos",
     "id": 0
   },
   "detail": {
